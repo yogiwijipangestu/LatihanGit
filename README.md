@@ -1,1 +1,3 @@
 # LatihanGit
+
+memek
